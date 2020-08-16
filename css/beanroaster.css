@@ -100,3 +100,23 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#style{
+    width:"61%";
+}
+
+#align-center{
+    width:"24%";
+}
+
+#align-left{
+    width:"20%";
+}
+
+#color{
+    width:"80%";
+}
